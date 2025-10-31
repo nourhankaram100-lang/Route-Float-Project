@@ -17,6 +17,7 @@ Clean design using only floats and inline-block
 Organized layout sections
 
 🚧 Notes
+
 The design is not fully responsive, as it was mainly for practicing float-based layouts.
 
 “Created during my Route Academy journey 🚀”
