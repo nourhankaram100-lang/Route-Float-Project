@@ -13,9 +13,13 @@ CSS3
 
 ⚙️ Features
 
-Basic responsive structure (non-flex/grid)
-Clean design using only floats and inline-block
-Organized layout sections
+Layout built using float and inline-block (not responsive)
+
+Demonstrates float, clear, and basic positioning techniques
+
+Organized page sections (header, content, footer)
+
+Intended as a practice task for classic CSS layout methods
 
 🚧 Notes
 
